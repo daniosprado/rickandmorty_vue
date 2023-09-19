@@ -1,0 +1,14 @@
+{
+  "root": true,
+  "env": {
+    "node": true
+  },
+  "extends": [
+    "@nuxtjs/eslint-config-typescript"
+  ],
+  "parserOptions": {
+    "parser": "@typescript-eslint/parser",
+    "ecmaVersion": 2020
+  },
+  "rules": {}
+}
